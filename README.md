@@ -10,7 +10,7 @@ This Dbms mini project did with jsp and mysql workbench
 
 # How To Get Project
 
-Contact me to get project
+Contact me to get Full project with backend
 contact dteails:
         contact no: +91 9499399962
         Email: sriprojects01@gmail.com
